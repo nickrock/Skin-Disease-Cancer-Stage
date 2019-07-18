@@ -1,0 +1,21 @@
+
+Image dataset from:
+
+The International Skin Imaging Collaboration
+
+Gray Level Co-occurrence Matrix or GLCM
+
+Disease 1:
+MSK(Mitogen and Stress activated kinases)
+
+Disease 2:
+Urticaria-deafness-amyloidosis
+
+Packages Used:
+Python 3
+Opencv 2
+mahotas
+
+Haralick algorithm read more:
+
+http://haralick.org/journals/TexturalFeatures.pdf
